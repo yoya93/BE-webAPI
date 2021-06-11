@@ -18,7 +18,8 @@ namespace WebApplication1.Controllers
             return new List<Usuario>()
             {
                 new Usuario() {id =1 , nombre = "Jorge" },
-                new Usuario() {id =2 , nombre = "Juan"}
+                new Usuario() {id =2 , nombre = "Juan"},
+                new Usuario() {id =3 , nombre = "Julian"}
             };
         }
     }
